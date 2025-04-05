@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fahadprod
 - 👀 I’m interested in Programming to develop new ideas
-- 🌱 I’m currently learning MERN stack develop
+- 🌱 I’m an MERN stack developer
 - 💞️ I’m looking to collaborate on MERN stack development
-- 📫 How to reach me fahadahmadmd@gmail.com
+- 📫 How to reach me: fahadahmadmd@gmail.com
 
 <!---
 fahadprod/fahadprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
