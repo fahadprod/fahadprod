@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahadprod
+- 👋 Hi, I’m Fahad Ahmad
 - 👀 I’m interested in Programming to develop new ideas
 - 🌱 I’m an MERN stack developer
 - 💞️ I’m looking to collaborate on MERN stack development
